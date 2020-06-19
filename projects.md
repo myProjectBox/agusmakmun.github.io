@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+Projects araound AVR, PIC12/16/18/24/32, ARM, ESP8266, ESP32
